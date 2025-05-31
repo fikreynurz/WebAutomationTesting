@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11185","Check login is un-successful with invalid credentials. Its is username not registered","","Sat May 31 17:21:03 WIB 2025","passed","Sat May 31 17:21:14 WIB 2025","","Login Functionality","Check login is un-successful with invalid credentials. Its is username not registered",""
+"","25358","Check login page after login using valid credentials as role ""administrator""","","Sat May 31 17:21:14 WIB 2025","passed","Sat May 31 17:21:39 WIB 2025","","Logout Functionality","Check login page after login using valid credentials as role ""administrator""",""
+"","36687","Check login is successful with valid credentials as role ""bendahara""","","Sat May 31 17:20:26 WIB 2025","passed","Sat May 31 17:21:02 WIB 2025","","Login Functionality","Check login is successful with valid credentials as role ""bendahara""",""
