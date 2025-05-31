@@ -4,7 +4,7 @@
 **Kelompok A11**
 - Muhamad Fahrizal Al-Zaelani
 - Muhammad Fikri Nur Sya'Bani
-- Saabiq M A
+- Saabiq Muhyiyuddin Aulawi
 
 ## Requirement
 - Java Development Kit (JDK) 17 ++
