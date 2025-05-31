@@ -81,15 +81,15 @@
 ## Screenshots Dokumentasi
 
 ### 1. Pengembangan Project
-![Project Structure in VS Code](img\folder-structure.png)
+![Project Structure in VS Code](img/folder-structure.png)
 *Project structure dalam Visual Studio Code*
 
 ### 2. Eksekusi Test
-![Test Execution](img\execution-test.png)
+![Test Execution](img/execution-test.png)
 *Proses eksekusi test via Maven*
 
 ### 3. Hasil Report
-![Allure Report](img\report.png)
+![Allure Report](img/report.png)
 *Dashboard Allure Report*
 
 ## Cara Menjalankan Pengujian
